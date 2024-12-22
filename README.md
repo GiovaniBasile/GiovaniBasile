@@ -1,4 +1,4 @@
 - 👋 Olá, Eu sou @GiovaniBasile
-- 👀 Eu sou um Cietista de Dados
+- 🥼 Eu sou um Cietista de Dados
 - 🌱 Atualmente estudando sobre padrões de projeto e desenvolvimento de software
 - 📫 Esse é o meu contato giovanibasile@gmail.com
